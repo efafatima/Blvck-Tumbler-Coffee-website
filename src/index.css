@@ -1,0 +1,20 @@
+
+/* @theme { */
+  /* Colors */
+  /* --color-primary: #f19509;
+  --color-primary-dark: #e86700;
+  --color-light-orange: #f1dabf;
+  --color-dark-gray: #1a1725;
+  --color-light-gray: #272c35; */
+
+  /* Container padding */
+  /* --container-padding: 1rem;
+  --container-padding-sm: 2rem;
+} */
+
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap");
+
+@theme {
+  --font-playfair: "Playfair Display", serif;
+}
