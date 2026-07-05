@@ -78,7 +78,7 @@ npm run build
 
 ## 📸 Screenshots
 
-Add screenshots of:
+
 
 <img width="1357" height="623" alt="image" src="https://github.com/user-attachments/assets/e1ec4fb3-740e-4758-b8ed-2f84d9daec41" />
 
